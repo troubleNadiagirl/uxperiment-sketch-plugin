@@ -1,6 +1,6 @@
 # UXperiment Sketch Export
 
-This plugin transforms a [Sketch](https://sketchapp.com) document into a JSON object and uploads it to a remote API endpoint. It has menu actions to select an initial artboard and setup layer-to-artboard and layer-to-URL transitions.
+This plugin transforms a [Sketch](https://sketchapp.com) document into a JSON object and uploads it to a remote API endpoint. It has menu actions for selection of initial artboard and setting-up layer-to-artboard and layer-to-URL transitions.
 
 This plugin is a part of [UXperiment](https://uxperiment.io/user).
 
